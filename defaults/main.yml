@@ -45,3 +45,8 @@ paperless_restore: false
 
 paperless_disable_login: false
 paperless_inline_doc: false
+
+paperless_consume_mail_host: ""
+paperless_consume_mail_port: ""
+paperless_consume_mail_user: ""
+paperless_consume_mail_pass: ""
